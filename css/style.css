@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #bb0a1e;
+}
+.card img{
+    height:202px; 
+}
+.card{
+    width: 91%;
+}
+.footer{
+    background-color: #bb0a1e;
+    color: azure;
+   
+}
+@media (max-width: 767px) {
+    .crd{
+        display:none;
+    }
+}
+@media (max-width: 575px) {
+    .locator {
+        display:none;
+    }
+}
+#add-warning, #log-warning, #sign-warning{
+    display: none;
+}
