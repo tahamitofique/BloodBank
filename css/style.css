@@ -25,3 +25,7 @@
 #add-warning, #log-warning, #sign-warning{
     display: none;
 }
+.spacer{
+    width: 10%;
+    height: 75px;
+}
